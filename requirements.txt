@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+# Agrega aquí cualquier otra librería que uses (ej: textblob) si decides incluirla por defecto,
+# sino, deja que el candidato las agregue.
