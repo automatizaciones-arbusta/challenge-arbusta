@@ -1,6 +1,6 @@
 # 🚀 Desafío Técnico: The Intelligent Feedback API
 
-¡Hola! Bienvenido al desafío técnico de **[Nombre de tu Empresa]**.
+¡Hola! Bienvenido al desafío técnico de **Arbusta**.
 
 Si estás leyendo esto, es porque nos interesa tu perfil y queremos ver cómo piensas, cómo estructuras tu código y cómo resuelves problemas prácticos. No buscamos la "solución perfecta", sino código limpio, funcional y buena predisposición para aprender.
 
